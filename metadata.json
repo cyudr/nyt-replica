@@ -1,0 +1,6 @@
+{
+  "name": "The New York Times",
+  "description": "An interactive, fully featured replica of The New York Times, featuring rich news categories, interactive word games (Wordle and Mini Crossword), weekly news quizzes, text resizers, and a live main headline editor, styled in a modern, premium Bento Grid layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
